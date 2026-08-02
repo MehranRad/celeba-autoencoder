@@ -97,7 +97,7 @@ notebook:
 | Parameter           | Default | Description                              |
 |---------------------|---------|--------------------------------------------|
 | `batch_size`         | 64      | Samples per batch                          |
-| `epochs`             | 100     | Training epochs                            |
+| `epochs`             | 10     | Training epochs                            |
 | `learning_rate`      | 1e-4    | Adam optimizer learning rate               |
 | `image_size`         | 64      | Resize/crop resolution (pixels)            |
 | `train_subset_size`  | 5000    | Number of training images sampled          |
